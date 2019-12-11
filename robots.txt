@@ -1,0 +1,4 @@
+User-Agent:*
+Disallow:/Wp-admin/
+Disallow:/Wp-includes/
+Disallow:/Temp/
